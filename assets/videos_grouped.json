@@ -1,0 +1,1687 @@
+{
+  "conversations": [
+    {
+      "id": "S0402_I00000949",
+      "videos": [
+        {
+          "file_name": "V00_S0402_I00000949_P0229A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0013/V00_S0402_I00000949_P0229A.mp4"
+        },
+        {
+          "file_name": "V00_S0402_I00000949_P0241A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0023/V00_S0402_I00000949_P0241A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Brainstorming: Coworkers discuss how to improve their presentation for an upcoming meeting.\n(Inhibited): As the coworker, speak in a hesitant and self-effacing tone, occasionally glancing at notes or avoiding eye contact with the group. Your words should be laced with uncertainty, as if you're not entirely sure what to contribute to the discussion. Avoid taking charge or offering solutions.",
+        "participant_b_prompt_text": "Scenario: Brainstorming: Coworkers discuss how to improve their presentation for an upcoming meeting.\n(Taciturn): As the coworker, sit back in your chair and maintain a neutral expression, observing the discussion without interjecting. Your tone should be matter-of-fact and unenthusiastic, as if you're merely going through the motions of participating in the brainstorming session."
+      }
+    },
+    {
+      "id": "S0402_I00000952",
+      "videos": [
+        {
+          "file_name": "V00_S0402_I00000952_P0229A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0008/V00_S0402_I00000952_P0229A.mp4"
+        },
+        {
+          "file_name": "V00_S0402_I00000952_P0241A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0002/V00_S0402_I00000952_P0241A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Vacation: A married couple discusses which activities to prioritize during an upcoming vacation.\n(Tenacious): As the husband, take a strong and decisive stance, advocating for an action-packed vacation with a clear agenda. Speak with conviction, using phrases like \"we can't miss this\" and \"we have to do that.\" Maintain a firm tone, but avoid being confrontational.",
+        "participant_b_prompt_text": "Scenario: Vacation: A married couple discusses which activities to prioritize during an upcoming vacation.\n(Accommodating): As the wife, adopt a flexible and considerate attitude, seeking to find common ground with your partner. Use phrases like \"what do you think?\" and \"let's compromise\" to show you're open to different ideas. Speak in a calm and soothing tone, avoiding any sense of resistance."
+      }
+    },
+    {
+      "id": "S0403_I00000949",
+      "videos": [
+        {
+          "file_name": "V00_S0403_I00000949_P0085A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0033/V00_S0403_I00000949_P0085A.mp4"
+        },
+        {
+          "file_name": "V00_S0403_I00000949_P0107A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0008/0013/V00_S0403_I00000949_P0107A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Brainstorming: Coworkers discuss how to improve their presentation for an upcoming meeting.\n(Inhibited): As the coworker, speak in a hesitant and self-effacing tone, occasionally glancing at notes or avoiding eye contact with the group. Your words should be laced with uncertainty, as if you're not entirely sure what to contribute to the discussion. Avoid taking charge or offering solutions.",
+        "participant_b_prompt_text": "Scenario: Brainstorming: Coworkers discuss how to improve their presentation for an upcoming meeting.\n(Taciturn): As the coworker, sit back in your chair and maintain a neutral expression, observing the discussion without interjecting. Your tone should be matter-of-fact and unenthusiastic, as if you're merely going through the motions of participating in the brainstorming session."
+      }
+    },
+    {
+      "id": "S0425_I00000849",
+      "videos": [
+        {
+          "file_name": "V00_S0425_I00000849_P0193A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0009/0033/V00_S0425_I00000849_P0193A.mp4"
+        },
+        {
+          "file_name": "V00_S0425_I00000849_P0383A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0009/0032/V00_S0425_I00000849_P0383A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Ask you Partner the question:  \"Describe something that happened recently that made you feel extremely proud.\"  Acknowledge their success, but try to subtly take some credit for it. Maybe it was some advice you gave them, or maybe you did something that made it possible.",
+        "participant_b_prompt_text": "Your Partner is going to ask you to describe something that happened recently that made you feel extremely proud."
+      }
+    },
+    {
+      "id": "S0449_I00000952",
+      "videos": [
+        {
+          "file_name": "V00_S0449_I00000952_P0262A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0010/0049/V00_S0449_I00000952_P0262A.mp4"
+        },
+        {
+          "file_name": "V00_S0449_I00000952_P0323A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0010/0023/V00_S0449_I00000952_P0323A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Vacation: A married couple discusses which activities to prioritize during an upcoming vacation.\n(Tenacious): As the husband, take a strong and decisive stance, advocating for an action-packed vacation with a clear agenda. Speak with conviction, using phrases like \"we can't miss this\" and \"we have to do that.\" Maintain a firm tone, but avoid being confrontational.",
+        "participant_b_prompt_text": "Scenario: Vacation: A married couple discusses which activities to prioritize during an upcoming vacation.\n(Accommodating): As the wife, adopt a flexible and considerate attitude, seeking to find common ground with your partner. Use phrases like \"what do you think?\" and \"let's compromise\" to show you're open to different ideas. Speak in a calm and soothing tone, avoiding any sense of resistance."
+      }
+    },
+    {
+      "id": "S0537_I00000849",
+      "videos": [
+        {
+          "file_name": "V00_S0537_I00000849_P0027A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0011/0041/V00_S0537_I00000849_P0027A.mp4"
+        },
+        {
+          "file_name": "V00_S0537_I00000849_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0011/0004/V00_S0537_I00000849_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Ask you Partner the question:  \"Describe something that happened recently that made you feel extremely proud.\"  Acknowledge their success, but try to subtly take some credit for it. Maybe it was some advice you gave them, or maybe you did something that made it possible.",
+        "participant_b_prompt_text": "Your Partner is going to ask you to describe something that happened recently that made you feel extremely proud."
+      }
+    },
+    {
+      "id": "S0612_I00000842",
+      "videos": [
+        {
+          "file_name": "V00_S0612_I00000842_P0107A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0039/V00_S0612_I00000842_P0107A.mp4"
+        },
+        {
+          "file_name": "V00_S0612_I00000842_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0044/V00_S0612_I00000842_P0250A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Empathetic): As the listener, maintain a gentle, non-judgmental expression, nodding thoughtfully to show you're engaged in the conversation. Speak softly and calmly, allowing the other person to share their story without interruption. Your tone conveys understanding and support.",
+        "participant_b_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Honest): As the sharer, speak clearly and directly, using a straightforward, matter-of-fact tone. Your body language is open and relaxed, conveying a sense of vulnerability and openness. Your words are authentic and unvarnished, sharing your true experiences and feelings."
+      }
+    },
+    {
+      "id": "S0642_I00000859",
+      "videos": [
+        {
+          "file_name": "V00_S0642_I00000859_P0005A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0059/V00_S0642_I00000859_P0005A.mp4"
+        },
+        {
+          "file_name": "V00_S0642_I00000859_P0658A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0018/V00_S0642_I00000859_P0658A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Parenting: A parent and grandparent discuss childcare strategies.\n(Tender): As the parent, speak with genuine concern and empathy, seeking the grandparent's guidance and reassurance. Use a soft, soothing tone to convey your vulnerability and desire for support. Lean in slightly to show your engagement and interest in the conversation.",
+        "participant_b_prompt_text": "Scenario: Parenting: A parent and grandparent discuss childcare strategies.\n(Unfocused): As the grandparent, respond with a distracted, slightly absent-minded tone, as if your mind is elsewhere. Use brief, fragmented sentences and avoid eye contact, giving the impression that you're not fully present or invested in the conversation."
+      }
+    },
+    {
+      "id": "S0646_I00000853",
+      "videos": [
+        {
+          "file_name": "V00_S0646_I00000853_P0005A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0027/V00_S0646_I00000853_P0005A.mp4"
+        },
+        {
+          "file_name": "V00_S0646_I00000853_P0658A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0038/V00_S0646_I00000853_P0658A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Coping: A therapist helps a patient explore coping strategies for managing negative emotions.\n(Humble): As the therapist, maintain a gentle and non-judgmental demeanor as you guide the patient through the exploration of their emotions. Use a soft-spoken tone and empathetic language to create a safe space for the patient to open up. Your body language should convey a sense of calm and understanding.",
+        "participant_b_prompt_text": "Scenario: Coping: A therapist helps a patient explore coping strategies for managing negative emotions.\n(Impersonal): As the patient, express a sense of emotional numbness and detachment as you describe your negative emotions. Use a flat tone and avoid showing any emotional response, as if you're simply recounting facts. Your body language should convey a sense of disconnection and disinterest."
+      }
+    },
+    {
+      "id": "S0650_I00000902",
+      "videos": [
+        {
+          "file_name": "V00_S0650_I00000902_P0005A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0023/V00_S0650_I00000902_P0005A.mp4"
+        },
+        {
+          "file_name": "V00_S0650_I00000902_P0658A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0012/0049/V00_S0650_I00000902_P0658A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Relocation: Two family members discuss the possibility of moving to another city for a new job.\n(Friendly): As the supportive sibling, speak in a warm and encouraging tone, offering words of comfort and reassurance as you discuss the potential benefits and drawbacks of the move. Use open and non-judgmental body language to create a safe space for conversation. Maintain a gentle and empathetic pace, allowing the other family member to share their thoughts and feelings.",
+        "participant_b_prompt_text": "Scenario: Relocation: Two family members discuss the possibility of moving to another city for a new job.\n(Disorganized): As the hesitant sibling, speak in a hesitant and uncertain tone, revealing a lack of clarity about the move. Fidget with your words, using filler phrases and vague expressions to convey your mixed emotions and conflicting thoughts. Display a sense of overwhelm and indecision, as if you're struggling to weigh the pros and cons of the decision."
+      }
+    },
+    {
+      "id": "S0678_I00000892",
+      "videos": [
+        {
+          "file_name": "V00_S0678_I00000892_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0001/V00_S0678_I00000892_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0678_I00000892_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0040/V00_S0678_I00000892_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
+        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
+      }
+    },
+    {
+      "id": "S0678_I00000893",
+      "videos": [
+        {
+          "file_name": "V00_S0678_I00000893_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0025/V00_S0678_I00000893_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0678_I00000893_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0046/V00_S0678_I00000893_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Companionable): As the person with a similar diagnosis, engage in a warm and empathetic conversation with Actor 2. Share personal anecdotes and listen attentively to their experiences, offering words of encouragement and support. Maintain a gentle, non-judgmental tone to create a safe space for open discussion.",
+        "participant_b_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n. Share personal anecdotes and listen attentively to their experiences, offering words of encouragement and support. Maintain a gentle, non-judgmental tone to create a safe space for open discussion.\nActor 2 (Introverted): As the person with a similar diagnosis, respond to Actor 1 with measured, thoughtful responses. Share your own experiences and insights in a calm, reflective manner, avoiding overly dramatic or emotional outbursts. Maintain a reserved, introspective tone to convey a sense of quiet contemplation."
+      }
+    },
+    {
+      "id": "S0682_I00000934",
+      "videos": [
+        {
+          "file_name": "V00_S0682_I00000934_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0025/V00_S0682_I00000934_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0682_I00000934_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0015/V00_S0682_I00000934_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Negotiation: A small business owner negotiates scheduling and bulk discounts with a vendor.\n(Indecisive): As the small business owner, convey a sense of hesitation and uncertainty, vacillating between wanting to secure a good deal and being unsure of the terms. Speak in a measured tone, pausing frequently to collect thoughts before responding. Your body language should convey a sense of unease and self-doubt.",
+        "participant_b_prompt_text": "Scenario: Negotiation: A small business owner negotiates scheduling and bulk discounts with a vendor.\n(Polite): As the vendor, maintain a friendly and accommodating demeanor, using phrases like \"I'd be happy to help\" and \"Let me see what I can do.\" Speak in a warm and conciliatory tone, actively listening to the small business owner's concerns and responding with empathy. Your tone should be collaborative and solution-focused."
+      }
+    },
+    {
+      "id": "S0686_I00000953",
+      "videos": [
+        {
+          "file_name": "V00_S0686_I00000953_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0029/V00_S0686_I00000953_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0686_I00000953_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0013/0008/V00_S0686_I00000953_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Mentorship: One professional attempts to provide career advice to their colleague.\n(Self-confident): As the mentor, speak with authority and conviction, using a clear and concise tone to convey your expertise. Maintain a calm and composed demeanor, even if your colleague is uncertain or resistant to your advice. Avoid coming across as condescending or superior.",
+        "participant_b_prompt_text": "Scenario: Mentorship: One professional attempts to provide career advice to their colleague.\n(Cheerful): As the mentee, listen attentively to your mentor's advice with a genuine and open-minded expression. Show appreciation for their guidance and ask thoughtful questions to demonstrate your interest in their suggestions. Maintain a positive and receptive body language, such as nodding and taking notes."
+      }
+    },
+    {
+      "id": "S0713_I00000892",
+      "videos": [
+        {
+          "file_name": "V00_S0713_I00000892_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0061/V00_S0713_I00000892_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0713_I00000892_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0058/V00_S0713_I00000892_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
+        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
+      }
+    },
+    {
+      "id": "S0713_I00000893",
+      "videos": [
+        {
+          "file_name": "V00_S0713_I00000893_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0023/V00_S0713_I00000893_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0713_I00000893_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0013/V00_S0713_I00000893_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Companionable): As the person with a similar diagnosis, engage in a warm and empathetic conversation with Actor 2. Share personal anecdotes and listen attentively to their experiences, offering words of encouragement and support. Maintain a gentle, non-judgmental tone to create a safe space for open discussion.",
+        "participant_b_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n. Share personal anecdotes and listen attentively to their experiences, offering words of encouragement and support. Maintain a gentle, non-judgmental tone to create a safe space for open discussion.\nActor 2 (Introverted): As the person with a similar diagnosis, respond to Actor 1 with measured, thoughtful responses. Share your own experiences and insights in a calm, reflective manner, avoiding overly dramatic or emotional outbursts. Maintain a reserved, introspective tone to convey a sense of quiet contemplation."
+      }
+    },
+    {
+      "id": "S0717_I00000934",
+      "videos": [
+        {
+          "file_name": "V00_S0717_I00000934_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0023/V00_S0717_I00000934_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0717_I00000934_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0038/V00_S0717_I00000934_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Negotiation: A small business owner negotiates scheduling and bulk discounts with a vendor.\n(Indecisive): As the small business owner, convey a sense of hesitation and uncertainty, vacillating between wanting to secure a good deal and being unsure of the terms. Speak in a measured tone, pausing frequently to collect thoughts before responding. Your body language should convey a sense of unease and self-doubt.",
+        "participant_b_prompt_text": "Scenario: Negotiation: A small business owner negotiates scheduling and bulk discounts with a vendor.\n(Polite): As the vendor, maintain a friendly and accommodating demeanor, using phrases like \"I'd be happy to help\" and \"Let me see what I can do.\" Speak in a warm and conciliatory tone, actively listening to the small business owner's concerns and responding with empathy. Your tone should be collaborative and solution-focused."
+      }
+    },
+    {
+      "id": "S0721_I00000953",
+      "videos": [
+        {
+          "file_name": "V00_S0721_I00000953_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0027/V00_S0721_I00000953_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0721_I00000953_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0032/V00_S0721_I00000953_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Mentorship: One professional attempts to provide career advice to their colleague.\n(Self-confident): As the mentor, speak with authority and conviction, using a clear and concise tone to convey your expertise. Maintain a calm and composed demeanor, even if your colleague is uncertain or resistant to your advice. Avoid coming across as condescending or superior.",
+        "participant_b_prompt_text": "Scenario: Mentorship: One professional attempts to provide career advice to their colleague.\n(Cheerful): As the mentee, listen attentively to your mentor's advice with a genuine and open-minded expression. Show appreciation for their guidance and ask thoughtful questions to demonstrate your interest in their suggestions. Maintain a positive and receptive body language, such as nodding and taking notes."
+      }
+    },
+    {
+      "id": "S0733_I00000921",
+      "videos": [
+        {
+          "file_name": "V00_S0733_I00000921_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0046/V00_S0733_I00000921_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0733_I00000921_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0044/V00_S0733_I00000921_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Symptoms: A patient discusses symptoms with their healthcare provider during a routine check-up.\n(Unargumentative): As the patient, express your symptoms in a matter-of-fact way, without dwelling on the details or expressing strong emotions. Speak in a neutral tone, as if simply stating a fact. Allow the healthcare provider to guide the conversation and take the lead in assessing your symptoms.",
+        "participant_b_prompt_text": "Scenario: Symptoms: A patient discusses symptoms with their healthcare provider during a routine check-up.\n(Tenderhearted): As the healthcare provider, listen attentively to the patient's symptoms with empathy and concern. Respond with warmth and kindness, asking gentle questions to understand the patient's concerns and offering reassurance without dismissing their worries. Maintain a calm and compassionate demeanor throughout the conversation."
+      }
+    },
+    {
+      "id": "S0733_I00000922",
+      "videos": [
+        {
+          "file_name": "V00_S0733_I00000922_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0012/V00_S0733_I00000922_P0407A.mp4"
+        },
+        {
+          "file_name": "V00_S0733_I00000922_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0014/0014/V00_S0733_I00000922_P0682A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
+        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
+      }
+    },
+    {
+      "id": "S0822_I00000921",
+      "videos": [
+        {
+          "file_name": "V00_S0822_I00000921_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0016/0031/V00_S0822_I00000921_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0822_I00000921_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0016/0001/V00_S0822_I00000921_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Symptoms: A patient discusses symptoms with their healthcare provider during a routine check-up.\n(Unargumentative): As the patient, express your symptoms in a matter-of-fact way, without dwelling on the details or expressing strong emotions. Speak in a neutral tone, as if simply stating a fact. Allow the healthcare provider to guide the conversation and take the lead in assessing your symptoms.",
+        "participant_b_prompt_text": "Scenario: Symptoms: A patient discusses symptoms with their healthcare provider during a routine check-up.\n(Tenderhearted): As the healthcare provider, listen attentively to the patient's symptoms with empathy and concern. Respond with warmth and kindness, asking gentle questions to understand the patient's concerns and offering reassurance without dismissing their worries. Maintain a calm and compassionate demeanor throughout the conversation."
+      }
+    },
+    {
+      "id": "S0822_I00000922",
+      "videos": [
+        {
+          "file_name": "V00_S0822_I00000922_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0016/0024/V00_S0822_I00000922_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0822_I00000922_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0016/0043/V00_S0822_I00000922_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
+        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
+      }
+    },
+    {
+      "id": "S0847_I00000898",
+      "videos": [
+        {
+          "file_name": "V00_S0847_I00000898_P0193A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0024/V00_S0847_I00000898_P0193A.mp4"
+        },
+        {
+          "file_name": "V00_S0847_I00000898_P0383A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0007/V00_S0847_I00000898_P0383A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Chef: A diner complains to the chef about the quality of their meal at a restaurant, asking for a refund.\n(Aggressive): As the diner, take a confrontational tone, expressing outrage and indignation at the poor quality of the meal. Use a raised voice and emphasize your points with gestures, conveying a sense of anger and frustration. Maintain a stern expression to convey your displeasure.",
+        "participant_b_prompt_text": "Scenario: Chef: A diner complains to the chef about the quality of their meal at a restaurant, asking for a refund.\n(Organized): As the chef, respond in a calm and composed manner, taking detailed notes on the diner's complaint. Speak in a clear, measured tone, using phrases such as \"I apologize for the inconvenience\" and \"Let me see what I can do to rectify the situation.\" Maintain a neutral expression, focusing on finding a solution rather than taking offense."
+      }
+    },
+    {
+      "id": "S0853_I00000859",
+      "videos": [
+        {
+          "file_name": "V00_S0853_I00000859_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0011/V00_S0853_I00000859_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S0853_I00000859_P0328A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0012/V00_S0853_I00000859_P0328A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Parenting: A parent and grandparent discuss childcare strategies.\n(Tender): As the parent, speak with genuine concern and empathy, seeking the grandparent's guidance and reassurance. Use a soft, soothing tone to convey your vulnerability and desire for support. Lean in slightly to show your engagement and interest in the conversation.",
+        "participant_b_prompt_text": "Scenario: Parenting: A parent and grandparent discuss childcare strategies.\n(Unfocused): As the grandparent, respond with a distracted, slightly absent-minded tone, as if your mind is elsewhere. Use brief, fragmented sentences and avoid eye contact, giving the impression that you're not fully present or invested in the conversation."
+      }
+    },
+    {
+      "id": "S0856_I00000873",
+      "videos": [
+        {
+          "file_name": "V00_S0856_I00000873_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0065/V00_S0856_I00000873_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S0856_I00000873_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0016/V00_S0856_I00000873_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Lawyer: A lawyer and client discuss the legal strategies and potential outcomes of their legal case.\n(Kind): As the lawyer, approach the conversation with empathy and compassion, using a warm and non-judgmental tone to build trust with the client. Speak in a calm and measured pace, allowing the client to share their concerns and feelings without interruption. Show genuine interest in the client's well-being and perspective.",
+        "participant_b_prompt_text": "Scenario: Lawyer: A lawyer and client discuss the legal strategies and potential outcomes of their legal case.\n(Unsympathetic): As the lawyer, maintain a detached and professional demeanor, avoiding emotional expressions or personal opinions. Use a firm but polite tone, focusing on the legal aspects of the case and the potential outcomes, without showing empathy or understanding for the client's feelings. Speak in a direct and to-the-point manner, avoiding small talk or attempts to build rapport."
+      }
+    },
+    {
+      "id": "S0857_I00000853",
+      "videos": [
+        {
+          "file_name": "V00_S0857_I00000853_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0008/V00_S0857_I00000853_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S0857_I00000853_P0328A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0065/V00_S0857_I00000853_P0328A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Coping: A therapist helps a patient explore coping strategies for managing negative emotions.\n(Humble): As the therapist, maintain a gentle and non-judgmental demeanor as you guide the patient through the exploration of their emotions. Use a soft-spoken tone and empathetic language to create a safe space for the patient to open up. Your body language should convey a sense of calm and understanding.",
+        "participant_b_prompt_text": "Scenario: Coping: A therapist helps a patient explore coping strategies for managing negative emotions.\n(Impersonal): As the patient, express a sense of emotional numbness and detachment as you describe your negative emotions. Use a flat tone and avoid showing any emotional response, as if you're simply recounting facts. Your body language should convey a sense of disconnection and disinterest."
+      }
+    },
+    {
+      "id": "S0861_I00000902",
+      "videos": [
+        {
+          "file_name": "V00_S0861_I00000902_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0032/V00_S0861_I00000902_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S0861_I00000902_P0328A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0017/0053/V00_S0861_I00000902_P0328A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Relocation: Two family members discuss the possibility of moving to another city for a new job.\n(Friendly): As the supportive sibling, speak in a warm and encouraging tone, offering words of comfort and reassurance as you discuss the potential benefits and drawbacks of the move. Use open and non-judgmental body language to create a safe space for conversation. Maintain a gentle and empathetic pace, allowing the other family member to share their thoughts and feelings.",
+        "participant_b_prompt_text": "Scenario: Relocation: Two family members discuss the possibility of moving to another city for a new job.\n(Disorganized): As the hesitant sibling, speak in a hesitant and uncertain tone, revealing a lack of clarity about the move. Fidget with your words, using filler phrases and vague expressions to convey your mixed emotions and conflicting thoughts. Display a sense of overwhelm and indecision, as if you're struggling to weigh the pros and cons of the decision."
+      }
+    },
+    {
+      "id": "S0868_I00000873",
+      "videos": [
+        {
+          "file_name": "V00_S0868_I00000873_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0018/0001/V00_S0868_I00000873_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S0868_I00000873_P0185A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0018/0005/V00_S0868_I00000873_P0185A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Lawyer: A lawyer and client discuss the legal strategies and potential outcomes of their legal case.\n(Kind): As the lawyer, approach the conversation with empathy and compassion, using a warm and non-judgmental tone to build trust with the client. Speak in a calm and measured pace, allowing the client to share their concerns and feelings without interruption. Show genuine interest in the client's well-being and perspective.",
+        "participant_b_prompt_text": "Scenario: Lawyer: A lawyer and client discuss the legal strategies and potential outcomes of their legal case.\n(Unsympathetic): As the lawyer, maintain a detached and professional demeanor, avoiding emotional expressions or personal opinions. Use a firm but polite tone, focusing on the legal aspects of the case and the potential outcomes, without showing empathy or understanding for the client's feelings. Speak in a direct and to-the-point manner, avoiding small talk or attempts to build rapport."
+      }
+    },
+    {
+      "id": "S0914_I00000842",
+      "videos": [
+        {
+          "file_name": "V00_S0914_I00000842_P0002A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0019/0014/V00_S0914_I00000842_P0002A.mp4"
+        },
+        {
+          "file_name": "V00_S0914_I00000842_P0042A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0019/0013/V00_S0914_I00000842_P0042A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Empathetic): As the listener, maintain a gentle, non-judgmental expression, nodding thoughtfully to show you're engaged in the conversation. Speak softly and calmly, allowing the other person to share their story without interruption. Your tone conveys understanding and support.",
+        "participant_b_prompt_text": "Scenario: Recovery: Two people with similar diagnoses discuss their experiences and roads to recovery.\n(Honest): As the sharer, speak clearly and directly, using a straightforward, matter-of-fact tone. Your body language is open and relaxed, conveying a sense of vulnerability and openness. Your words are authentic and unvarnished, sharing your true experiences and feelings."
+      }
+    },
+    {
+      "id": "S0928_I00000898",
+      "videos": [
+        {
+          "file_name": "V00_S0928_I00000898_P0085A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0019/0010/V00_S0928_I00000898_P0085A.mp4"
+        },
+        {
+          "file_name": "V00_S0928_I00000898_P0229A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0019/0042/V00_S0928_I00000898_P0229A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Scenario: Chef: A diner complains to the chef about the quality of their meal at a restaurant, asking for a refund.\n(Aggressive): As the diner, take a confrontational tone, expressing outrage and indignation at the poor quality of the meal. Use a raised voice and emphasize your points with gestures, conveying a sense of anger and frustration. Maintain a stern expression to convey your displeasure.",
+        "participant_b_prompt_text": "Scenario: Chef: A diner complains to the chef about the quality of their meal at a restaurant, asking for a refund.\n(Organized): As the chef, respond in a calm and composed manner, taking detailed notes on the diner's complaint. Speak in a clear, measured tone, using phrases such as \"I apologize for the inconvenience\" and \"Let me see what I can do to rectify the situation.\" Maintain a neutral expression, focusing on finding a solution rather than taking offense."
+      }
+    },
+    {
+      "id": "S0956_I00001224",
+      "videos": [
+        {
+          "file_name": "V00_S0956_I00001224_P0557A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0030/V00_S0956_I00001224_P0557A.mp4"
+        },
+        {
+          "file_name": "V00_S0956_I00001224_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0047/V00_S0956_I00001224_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Manipulative): As a coworker, steer the conversation in a direction that benefits your own ideas and interests. Use persuasive language and subtle flattery to influence your colleague's opinions, making them more likely to agree with your suggestions. Maintain a charming and agreeable tone, but be willing to subtly undermine opposing views to get your way.",
+        "participant_b_prompt_text": "(Coldhearted): As a coworker, approach the brainstorming session with a detached and analytical mindset. Evaluate each idea solely on its merits, without regard for your colleague's feelings or personal investments. Speak in a direct and unvarnished tone, avoiding emotional appeals or attempts to build consensus, and be willing to bluntly criticize or dismiss suggestions that don't meet your standards."
+      }
+    },
+    {
+      "id": "S0956_I00001225",
+      "videos": [
+        {
+          "file_name": "V00_S0956_I00001225_P0557A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0072/V00_S0956_I00001225_P0557A.mp4"
+        },
+        {
+          "file_name": "V00_S0956_I00001225_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0055/V00_S0956_I00001225_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Uncharitable): As the employee, respond to the customer's questions with a hint of annoyance and a dash of skepticism. Speak in a slightly curt tone, implying that the customer's questions are unnecessary or overly complicated. Show a lack of enthusiasm for the product, focusing on the technical specifications rather than the benefits or features.",
+        "participant_b_prompt_text": "(Ingenuous): As the customer, ask your questions with a genuine curiosity and openness. Speak in a friendly and inquiring tone, seeking to understand the intricacies of the product. Display a sense of wonder and excitement about the technology, and be willing to learn from the employee's expertise."
+      }
+    },
+    {
+      "id": "S0956_I00001226",
+      "videos": [
+        {
+          "file_name": "V00_S0956_I00001226_P0557A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0009/V00_S0956_I00001226_P0557A.mp4"
+        },
+        {
+          "file_name": "V00_S0956_I00001226_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0020/V00_S0956_I00001226_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Devious): As the customer, approach the conversation with a sly and manipulative tone, trying to find loopholes or excuses to cancel your membership without penalty. Use persuasive language to make your case, while being prepared to bend the truth or make false promises to get what you want.",
+        "participant_b_prompt_text": "(Approachable): As the gym owner, greet the customer warmly and listen to their concerns with empathy and understanding. Speak in a friendly and non-confrontational tone, asking questions to clarify their reasons for cancellation and offering alternative solutions or compromises to find a mutually beneficial outcome. Maintain a helpful and solution-focused demeanor throughout the conversation."
+      }
+    },
+    {
+      "id": "S0962_I00001224",
+      "videos": [
+        {
+          "file_name": "V00_S0962_I00001224_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0020/V00_S0962_I00001224_P0250A.mp4"
+        },
+        {
+          "file_name": "V00_S0962_I00001224_P0602A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0051/V00_S0962_I00001224_P0602A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Manipulative): As a coworker, steer the conversation in a direction that benefits your own ideas and interests. Use persuasive language and subtle flattery to influence your colleague's opinions, making them more likely to agree with your suggestions. Maintain a charming and agreeable tone, but be willing to subtly undermine opposing views to get your way.",
+        "participant_b_prompt_text": "(Coldhearted): As a coworker, approach the brainstorming session with a detached and analytical mindset. Evaluate each idea solely on its merits, without regard for your colleague's feelings or personal investments. Speak in a direct and unvarnished tone, avoiding emotional appeals or attempts to build consensus, and be willing to bluntly criticize or dismiss suggestions that don't meet your standards."
+      }
+    },
+    {
+      "id": "S0962_I00001225",
+      "videos": [
+        {
+          "file_name": "V00_S0962_I00001225_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0008/V00_S0962_I00001225_P0250A.mp4"
+        },
+        {
+          "file_name": "V00_S0962_I00001225_P0602A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0010/V00_S0962_I00001225_P0602A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Uncharitable): As the employee, respond to the customer's questions with a hint of annoyance and a dash of skepticism. Speak in a slightly curt tone, implying that the customer's questions are unnecessary or overly complicated. Show a lack of enthusiasm for the product, focusing on the technical specifications rather than the benefits or features.",
+        "participant_b_prompt_text": "(Ingenuous): As the customer, ask your questions with a genuine curiosity and openness. Speak in a friendly and inquiring tone, seeking to understand the intricacies of the product. Display a sense of wonder and excitement about the technology, and be willing to learn from the employee's expertise."
+      }
+    },
+    {
+      "id": "S0962_I00001226",
+      "videos": [
+        {
+          "file_name": "V00_S0962_I00001226_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0052/V00_S0962_I00001226_P0250A.mp4"
+        },
+        {
+          "file_name": "V00_S0962_I00001226_P0602A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0013/V00_S0962_I00001226_P0602A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Devious): As the customer, approach the conversation with a sly and manipulative tone, trying to find loopholes or excuses to cancel your membership without penalty. Use persuasive language to make your case, while being prepared to bend the truth or make false promises to get what you want.",
+        "participant_b_prompt_text": "(Approachable): As the gym owner, greet the customer warmly and listen to their concerns with empathy and understanding. Speak in a friendly and non-confrontational tone, asking questions to clarify their reasons for cancellation and offering alternative solutions or compromises to find a mutually beneficial outcome. Maintain a helpful and solution-focused demeanor throughout the conversation."
+      }
+    },
+    {
+      "id": "S0963_I00001195",
+      "videos": [
+        {
+          "file_name": "V00_S0963_I00001195_P0180A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0039/V00_S0963_I00001195_P0180A.mp4"
+        },
+        {
+          "file_name": "V00_S0963_I00001195_P0707A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0032/V00_S0963_I00001195_P0707A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Sociable): As the host, engage with your friends enthusiastically, fostering a lively discussion about the game night plans. Encourage everyone to share their opinions and ideas, creating a sense of inclusivity and camaraderie. Use a warm and inviting tone, making sure everyone feels heard and valued in the decision-making process.",
+        "participant_b_prompt_text": "(Helpful): As a friend, participate in the planning conversation with a supportive and accommodating attitude. Offer suggestions and ideas, while also being mindful of others' preferences and opinions. Speak in a friendly and collaborative tone, focusing on finding solutions that work for everyone, and be willing to compromise and adapt to ensure a fun and enjoyable game night for all."
+      }
+    },
+    {
+      "id": "S0968_I00001040",
+      "videos": [
+        {
+          "file_name": "V00_S0968_I00001040_P0124A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0063/V00_S0968_I00001040_P0124A.mp4"
+        },
+        {
+          "file_name": "V00_S0968_I00001040_P0974A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0019/V00_S0968_I00001040_P0974A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Goal-oriented): As the teacher, approach the conversation with a clear and focused mindset, prioritizing the tasks that need to be accomplished. Speak directly and efficiently, outlining specific objectives and deadlines for the teaching assistant to meet. Maintain a sense of urgency and importance, emphasizing the impact of the tasks on the students' learning outcomes.",
+        "participant_b_prompt_text": "(Reclusive): As the teaching assistant, respond to the teacher's instructions with a reserved and introverted demeanor. Listen attentively, but avoid making eye contact or engaging in unnecessary small talk. Speak in a soft and measured tone, asking only necessary questions to clarify the tasks and responsibilities, and avoiding any displays of enthusiasm or emotion."
+      }
+    },
+    {
+      "id": "S0973_I00000056",
+      "videos": [
+        {
+          "file_name": "V00_S0973_I00000056_P0204.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0066/V00_S0973_I00000056_P0204.mp4"
+        },
+        {
+          "file_name": "V00_S0973_I00000056_P0845A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0066/V00_S0973_I00000056_P0845A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Share with your partner a time when you received some unexpectedly good news. How did you react, and what did you do to celebrate?",
+        "participant_b_prompt_text": "Your partner will tell you about a time they received good news. Ask them follow-up questions to keep the conversation light and enthusiastic."
+      }
+    },
+    {
+      "id": "S0973_I00000057",
+      "videos": [
+        {
+          "file_name": "V00_S0973_I00000057_P0204.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0058/V00_S0973_I00000057_P0204.mp4"
+        },
+        {
+          "file_name": "V00_S0973_I00000057_P0845A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0062/V00_S0973_I00000057_P0845A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will talk about a task they've been procrastinating on. Share a time when you faced a similar challenge and how you overcame it, and offer advice on how they might get started.",
+        "participant_b_prompt_text": "Discuss a task or project that you've been putting off for a while. What's holding you back from tackling it, and what strategies do you think might help you regain momentum?"
+      }
+    },
+    {
+      "id": "S0973_I00000064",
+      "videos": [
+        {
+          "file_name": "V00_S0973_I00000064_P0204.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0065/V00_S0973_I00000064_P0204.mp4"
+        },
+        {
+          "file_name": "V00_S0973_I00000064_P0845A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0037/V00_S0973_I00000064_P0845A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Share a personal achievement that you're particularly proud of and explain why it's significant to you. Try to convince your partner that it's impressive.",
+        "participant_b_prompt_text": "Your partner will tell you about something they're proud of. Listen to their story and ask follow-up questions to understand what makes it special to them."
+      }
+    },
+    {
+      "id": "S0975_I00000651",
+      "videos": [
+        {
+          "file_name": "V00_S0975_I00000651_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0046/V00_S0975_I00000651_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S0975_I00000651_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0030/V00_S0975_I00000651_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Kind): As the teacher, approach the conversation with a warm and supportive demeanor. Speak in a gentle, encouraging tone, showing genuine interest in the teaching assistant's thoughts and ideas. Offer guidance and feedback in a constructive, non-judgmental way, prioritizing the assistant's growth and development.",
+        "participant_b_prompt_text": "(Manipulative): As the teaching assistant, engage in the conversation with a subtle, insincere tone, using flattery and charm to influence the teacher's decisions. Make suggestions that benefit yourself, presenting them as beneficial to the teacher or the students, and use persuasive language to nudge the teacher towards your desired outcome. Maintain a friendly, agreeable facade while pursuing your own agenda."
+      }
+    },
+    {
+      "id": "S0976_I00001040",
+      "videos": [
+        {
+          "file_name": "V00_S0976_I00001040_P0210A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0055/V00_S0976_I00001040_P0210A.mp4"
+        },
+        {
+          "file_name": "V00_S0976_I00001040_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0013/V00_S0976_I00001040_P0407A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Goal-oriented): As the teacher, approach the conversation with a clear and focused mindset, prioritizing the tasks that need to be accomplished. Speak directly and efficiently, outlining specific objectives and deadlines for the teaching assistant to meet. Maintain a sense of urgency and importance, emphasizing the impact of the tasks on the students' learning outcomes.",
+        "participant_b_prompt_text": "(Reclusive): As the teaching assistant, respond to the teacher's instructions with a reserved and introverted demeanor. Listen attentively, but avoid making eye contact or engaging in unnecessary small talk. Speak in a soft and measured tone, asking only necessary questions to clarify the tasks and responsibilities, and avoiding any displays of enthusiasm or emotion."
+      }
+    },
+    {
+      "id": "S0977_I00000041",
+      "videos": [
+        {
+          "file_name": "V00_S0977_I00000041_P0845A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0033/V00_S0977_I00000041_P0845A.mp4"
+        },
+        {
+          "file_name": "V00_S0977_I00000041_P1048.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0026/V00_S0977_I00000041_P1048.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Discuss a task or project that you've been putting off for a while. What's holding you back from starting or completing it, and how do you plan to overcome your procrastination?",
+        "participant_b_prompt_text": "Your partner will talk about a task they've been putting off. Offer suggestions or advice on how they might get started, and share a strategy that has worked for you in a similar situation."
+      }
+    },
+    {
+      "id": "S0980_I00001108",
+      "videos": [
+        {
+          "file_name": "V00_S0980_I00001108_P0210A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0070/V00_S0980_I00001108_P0210A.mp4"
+        },
+        {
+          "file_name": "V00_S0980_I00001108_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0063/V00_S0980_I00001108_P0407A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Extraverted): As a teammate, enthusiastically contribute to the discussion, sharing your ideas and opinions with confidence and energy. Use gestures and vocal inflections to emphasize your points, and engage with your fellow teammates to build a sense of camaraderie and shared purpose. Speak freely, without hesitation, and encourage others to do the same.",
+        "participant_b_prompt_text": "(Impolite): As a teammate, interrupt others and dominate the conversation, pushing your own ideas and opinions without regard for others' thoughts or feelings. Speak in a blunt, dismissive tone, and use body language to convey a sense of superiority or annoyance. Show little interest in listening to others or considering alternative perspectives."
+      }
+    },
+    {
+      "id": "S0980_I00001111",
+      "videos": [
+        {
+          "file_name": "V00_S0980_I00001111_P0210A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0062/V00_S0980_I00001111_P0210A.mp4"
+        },
+        {
+          "file_name": "V00_S0980_I00001111_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0020/0001/V00_S0980_I00001111_P0407A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Apathetic): As the novice, ask questions and seek clarification in a somewhat disconnected and unenthusiastic manner, as if you're not particularly invested in learning the recipe. Speak in a flat tone, without much inflection or curiosity, and avoid showing excitement or interest in the dish.",
+        "participant_b_prompt_text": "(Impersonal): As the skilled chef, provide instructions and explanations in a detached and matter-of-fact way, focusing on the technical aspects of the recipe rather than its creative or culinary aspects. Avoid using personal anecdotes or emotional language, and maintain a neutral, almost clinical tone throughout the conversation."
+      }
+    },
+    {
+      "id": "S0982_I00001108",
+      "videos": [
+        {
+          "file_name": "V00_S0982_I00001108_P0120A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0010/V00_S0982_I00001108_P0120A.mp4"
+        },
+        {
+          "file_name": "V00_S0982_I00001108_P1047A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0042/V00_S0982_I00001108_P1047A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Extraverted): As a teammate, enthusiastically contribute to the discussion, sharing your ideas and opinions with confidence and energy. Use gestures and vocal inflections to emphasize your points, and engage with your fellow teammates to build a sense of camaraderie and shared purpose. Speak freely, without hesitation, and encourage others to do the same.",
+        "participant_b_prompt_text": "(Impolite): As a teammate, interrupt others and dominate the conversation, pushing your own ideas and opinions without regard for others' thoughts or feelings. Speak in a blunt, dismissive tone, and use body language to convey a sense of superiority or annoyance. Show little interest in listening to others or considering alternative perspectives."
+      }
+    },
+    {
+      "id": "S0982_I00001111",
+      "videos": [
+        {
+          "file_name": "V00_S0982_I00001111_P0120A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0058/V00_S0982_I00001111_P0120A.mp4"
+        },
+        {
+          "file_name": "V00_S0982_I00001111_P1047A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0067/V00_S0982_I00001111_P1047A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Apathetic): As the novice, ask questions and seek clarification in a somewhat disconnected and unenthusiastic manner, as if you're not particularly invested in learning the recipe. Speak in a flat tone, without much inflection or curiosity, and avoid showing excitement or interest in the dish.",
+        "participant_b_prompt_text": "(Impersonal): As the skilled chef, provide instructions and explanations in a detached and matter-of-fact way, focusing on the technical aspects of the recipe rather than its creative or culinary aspects. Avoid using personal anecdotes or emotional language, and maintain a neutral, almost clinical tone throughout the conversation."
+      }
+    },
+    {
+      "id": "S0989_I00001195",
+      "videos": [
+        {
+          "file_name": "V00_S0989_I00001195_P0185.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0047/V00_S0989_I00001195_P0185.mp4"
+        },
+        {
+          "file_name": "V00_S0989_I00001195_P0230A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0034/V00_S0989_I00001195_P0230A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Sociable): As the host, engage with your friends enthusiastically, fostering a lively discussion about the game night plans. Encourage everyone to share their opinions and ideas, creating a sense of inclusivity and camaraderie. Use a warm and inviting tone, making sure everyone feels heard and valued in the decision-making process.",
+        "participant_b_prompt_text": "(Helpful): As a friend, participate in the planning conversation with a supportive and accommodating attitude. Offer suggestions and ideas, while also being mindful of others' preferences and opinions. Speak in a friendly and collaborative tone, focusing on finding solutions that work for everyone, and be willing to compromise and adapt to ensure a fun and enjoyable game night for all."
+      }
+    },
+    {
+      "id": "S0989_I00001198",
+      "videos": [
+        {
+          "file_name": "V00_S0989_I00001198_P0185.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0064/V00_S0989_I00001198_P0185.mp4"
+        },
+        {
+          "file_name": "V00_S0989_I00001198_P0230A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0031/V00_S0989_I00001198_P0230A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Modest): As the real estate agent, approach the conversation with humility and a willingness to listen. Downplay your expertise and avoid coming across as pushy or sales-y, instead focusing on providing helpful information and guidance to the client. Speak in a gentle, non-judgmental tone, and be open to the client's questions and concerns.",
+        "participant_b_prompt_text": "(Taciturn): As the client, maintain a reserved and introspective demeanor, speaking only when necessary and keeping your thoughts and feelings to yourself. Avoid asking too many questions or seeking reassurance, instead preferring to observe and listen to the agent's presentation. Keep your emotions and reactions in check, revealing little about your true thoughts or feelings about the purchase options."
+      }
+    },
+    {
+      "id": "S0990_I00000402",
+      "videos": [
+        {
+          "file_name": "V00_S0990_I00000402_P0241A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0003/V00_S0990_I00000402_P0241A.mp4"
+        },
+        {
+          "file_name": "V00_S0990_I00000402_P1050.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0006/V00_S0990_I00000402_P1050.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Tell your partner about a time when you encountered a policy or rule that seemed inflexible or unyielding. Explain how it affected you and why you think it was impersonal.",
+        "participant_b_prompt_text": "Your partner will share a story about a frustrating experience with a policy or rule. Ask them to elaborate on how it made them feel and discuss potential alternatives that might have been more considerate."
+      }
+    },
+    {
+      "id": "S0992_I00000093",
+      "videos": [
+        {
+          "file_name": "V00_S0992_I00000093_P1052.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0037/V00_S0992_I00000093_P1052.mp4"
+        },
+        {
+          "file_name": "V00_S0992_I00000093_P1053.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0036/V00_S0992_I00000093_P1053.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a project you worked on together. Ask them questions about their perspective on the project and discuss how you could improve your collaboration in the future.",
+        "participant_b_prompt_text": "Think of a project or task you worked on with your partner that required collaboration and teamwork. Describe the project, your role in it, and how you worked together to achieve a common goal."
+      }
+    },
+    {
+      "id": "S0992_I00000095",
+      "videos": [
+        {
+          "file_name": "V00_S0992_I00000095_P1052.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0024/V00_S0992_I00000095_P1052.mp4"
+        },
+        {
+          "file_name": "V00_S0992_I00000095_P1053.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0003/V00_S0992_I00000095_P1053.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they had to adjust their plans for you. Discuss with them how you felt about the situation and whether it was a big deal or not.",
+        "participant_b_prompt_text": "Think of a time when you had to adjust your plans to help your partner out. Describe the situation and how you felt about making the change."
+      }
+    },
+    {
+      "id": "S0992_I00000102",
+      "videos": [
+        {
+          "file_name": "V00_S0992_I00000102_P1052.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0016/V00_S0992_I00000102_P1052.mp4"
+        },
+        {
+          "file_name": "V00_S0992_I00000102_P1053.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0017/V00_S0992_I00000102_P1053.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Tell your partner about a time when someone showed you kindness or generosity when you needed it most. How did their actions affect you and what did you learn from the experience?",
+        "participant_b_prompt_text": "Your partner will share a story about a time they received kindness from someone. Listen to their story and discuss how it impacted their life and relationships."
+      }
+    },
+    {
+      "id": "S0993_I00001217",
+      "videos": [
+        {
+          "file_name": "V00_S0993_I00001217_P0557A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0075/V00_S0993_I00001217_P0557A.mp4"
+        },
+        {
+          "file_name": "V00_S0993_I00001217_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0048/V00_S0993_I00001217_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Polite): As the new employee, listen attentively to the supervisor's explanation with a respectful and courteous demeanor. Show genuine interest and concern for learning the safety protocols, asking clarifying questions in a considerate tone. Maintain a receptive and open-minded attitude throughout the conversation.",
+        "participant_b_prompt_text": "(Aggressive): As the supervisor, deliver the safety protocols in a forceful and direct manner, emphasizing the importance of adhering to the rules with a sense of urgency. Speak with a firm tone, using a commanding presence to convey the gravity of the safety procedures. Avoid showing patience or empathy, instead focusing on the strict enforcement of the rules."
+      }
+    },
+    {
+      "id": "S0994_I00001124",
+      "videos": [
+        {
+          "file_name": "V00_S0994_I00001124_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0067/V00_S0994_I00001124_P0250A.mp4"
+        },
+        {
+          "file_name": "V00_S0994_I00001124_P0602A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0033/V00_S0994_I00001124_P0602A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Inconsistent): As the employee, express your concerns about the policy in a way that is sometimes passionate and sometimes hesitant. Switch between being clear and direct about your grievances and being uncertain and wavering in your demands. This inconsistency should make it difficult for the HR rep to fully understand your position or take you seriously.",
+        "participant_b_prompt_text": "(Cruel): As the HR representative, respond to the employee's complaint with a dismissive and unsympathetic tone. Use a cold, detached demeanor to make the employee feel unimportant and unvalued. Make it clear that you are not interested in listening to their concerns or exploring possible solutions, and that the policy is not up for discussion or debate."
+      }
+    },
+    {
+      "id": "S0996_I00001005",
+      "videos": [
+        {
+          "file_name": "V00_S0996_I00001005_P0180A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0027/V00_S0996_I00001005_P0180A.mp4"
+        },
+        {
+          "file_name": "V00_S0996_I00001005_P0707A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0005/V00_S0996_I00001005_P0707A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": null,
+        "participant_b_prompt_text": null
+      }
+    },
+    {
+      "id": "S0997_I00001124",
+      "videos": [
+        {
+          "file_name": "V00_S0997_I00001124_P0557A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0054/V00_S0997_I00001124_P0557A.mp4"
+        },
+        {
+          "file_name": "V00_S0997_I00001124_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0071/V00_S0997_I00001124_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Inconsistent): As the employee, express your concerns about the policy in a way that is sometimes passionate and sometimes hesitant. Switch between being clear and direct about your grievances and being uncertain and wavering in your demands. This inconsistency should make it difficult for the HR rep to fully understand your position or take you seriously.",
+        "participant_b_prompt_text": "(Cruel): As the HR representative, respond to the employee's complaint with a dismissive and unsympathetic tone. Use a cold, detached demeanor to make the employee feel unimportant and unvalued. Make it clear that you are not interested in listening to their concerns or exploring possible solutions, and that the policy is not up for discussion or debate."
+      }
+    },
+    {
+      "id": "S1004_I00001177",
+      "videos": [
+        {
+          "file_name": "V00_S1004_I00001177_P0180A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0072/V00_S1004_I00001177_P0180A.mp4"
+        },
+        {
+          "file_name": "V00_S1004_I00001177_P0707A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0055/V00_S1004_I00001177_P0707A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Sullen): As the supervisor, deliver the feedback with a somber and disapproving tone, conveying a sense of disappointment and frustration with the employee's performance. Speak in a low, measured tone, avoiding any expression of enthusiasm or optimism. Maintain a serious and unyielding demeanor, focusing on the employee's shortcomings rather than their strengths.",
+        "participant_b_prompt_text": "(Arrogant): As the employee, receive the feedback with a haughty and dismissive attitude, implying that the supervisor's concerns are unfounded or insignificant. Speak in a condescending tone, using phrases that suggest you're already aware of your own strengths and weaknesses, and that the supervisor's feedback is unnecessary or unhelpful. Display a sense of superiority, as if you're humoring the supervisor rather than taking their feedback seriously."
+      }
+    },
+    {
+      "id": "S1004_I00001182",
+      "videos": [
+        {
+          "file_name": "V00_S1004_I00001182_P0180A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0061/V00_S1004_I00001182_P0180A.mp4"
+        },
+        {
+          "file_name": "V00_S1004_I00001182_P0707A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0028/V00_S1004_I00001182_P0707A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Shy): As the community member, approach the conversation with a hesitant and reserved demeanor. Speak softly and avoid direct eye contact, as if unsure of yourself or the opportunities being discussed. Show genuine interest in volunteering, but express your thoughts and feelings in a tentative and uncertain manner.",
+        "participant_b_prompt_text": "(Inconsistent): As the nonprofit representative, respond to the community member's inquiries with a tone that shifts unpredictably between enthusiasm and detachment. At times, show excitement and eagerness to share information about the volunteer opportunities, but then suddenly become distracted or dismissive, leaving the community member unsure of how to proceed. Switch between a warm and welcoming smile to a more serious and bureaucratic expression, creating an unpredictable dynamic in the conversation."
+      }
+    },
+    {
+      "id": "S1011_I00000651",
+      "videos": [
+        {
+          "file_name": "V00_S1011_I00000651_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0068/V00_S1011_I00000651_P0682A.mp4"
+        },
+        {
+          "file_name": "V00_S1011_I00000651_P0825A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0050/V00_S1011_I00000651_P0825A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Kind): As the teacher, approach the conversation with a warm and supportive demeanor. Speak in a gentle, encouraging tone, showing genuine interest in the teaching assistant's thoughts and ideas. Offer guidance and feedback in a constructive, non-judgmental way, prioritizing the assistant's growth and development.",
+        "participant_b_prompt_text": "(Manipulative): As the teaching assistant, engage in the conversation with a subtle, insincere tone, using flattery and charm to influence the teacher's decisions. Make suggestions that benefit yourself, presenting them as beneficial to the teacher or the students, and use persuasive language to nudge the teacher towards your desired outcome. Maintain a friendly, agreeable facade while pursuing your own agenda."
+      }
+    },
+    {
+      "id": "S1012_I00001215",
+      "videos": [
+        {
+          "file_name": "V00_S1012_I00001215_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0051/V00_S1012_I00001215_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S1012_I00001215_P0388A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0021/0022/V00_S1012_I00001215_P0388A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Cruel): As the homeowner, approach the conversation with a dismissive and belittling attitude towards the contractor's suggestions. Speak in a condescending tone, making it clear that you know better and that the contractor's expertise is inferior to your own. Use sarcasm to cut down the contractor's ideas, making them feel unvalued and unappreciated.",
+        "participant_b_prompt_text": "(Aggressive): As the contractor, respond to the homeowner's demands with a forceful and argumentative demeanor. Speak in a raised tone, pushing back against the homeowner's criticism and defending your professional expertise. Use a confrontational style to assert your authority and make it clear that you will not be bullied or intimidated by the homeowner's aggressive behavior."
+      }
+    },
+    {
+      "id": "S1022_I00001217",
+      "videos": [
+        {
+          "file_name": "V00_S1022_I00001217_P0002A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0009/V00_S1022_I00001217_P0002A.mp4"
+        },
+        {
+          "file_name": "V00_S1022_I00001217_P0359A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0054/V00_S1022_I00001217_P0359A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Polite): As the new employee, listen attentively to the supervisor's explanation with a respectful and courteous demeanor. Show genuine interest and concern for learning the safety protocols, asking clarifying questions in a considerate tone. Maintain a receptive and open-minded attitude throughout the conversation.",
+        "participant_b_prompt_text": "(Aggressive): As the supervisor, deliver the safety protocols in a forceful and direct manner, emphasizing the importance of adhering to the rules with a sense of urgency. Speak with a firm tone, using a commanding presence to convey the gravity of the safety procedures. Avoid showing patience or empathy, instead focusing on the strict enforcement of the rules."
+      }
+    },
+    {
+      "id": "S1023_I00001177",
+      "videos": [
+        {
+          "file_name": "V00_S1023_I00001177_P0230A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0034/V00_S1023_I00001177_P0230A.mp4"
+        },
+        {
+          "file_name": "V00_S1023_I00001177_P0396A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0013/V00_S1023_I00001177_P0396A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Sullen): As the supervisor, deliver the feedback with a somber and disapproving tone, conveying a sense of disappointment and frustration with the employee's performance. Speak in a low, measured tone, avoiding any expression of enthusiasm or optimism. Maintain a serious and unyielding demeanor, focusing on the employee's shortcomings rather than their strengths.",
+        "participant_b_prompt_text": "(Arrogant): As the employee, receive the feedback with a haughty and dismissive attitude, implying that the supervisor's concerns are unfounded or insignificant. Speak in a condescending tone, using phrases that suggest you're already aware of your own strengths and weaknesses, and that the supervisor's feedback is unnecessary or unhelpful. Display a sense of superiority, as if you're humoring the supervisor rather than taking their feedback seriously."
+      }
+    },
+    {
+      "id": "S1023_I00001182",
+      "videos": [
+        {
+          "file_name": "V00_S1023_I00001182_P0230A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0038/V00_S1023_I00001182_P0230A.mp4"
+        },
+        {
+          "file_name": "V00_S1023_I00001182_P0396A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0006/V00_S1023_I00001182_P0396A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Shy): As the community member, approach the conversation with a hesitant and reserved demeanor. Speak softly and avoid direct eye contact, as if unsure of yourself or the opportunities being discussed. Show genuine interest in volunteering, but express your thoughts and feelings in a tentative and uncertain manner.",
+        "participant_b_prompt_text": "(Inconsistent): As the nonprofit representative, respond to the community member's inquiries with a tone that shifts unpredictably between enthusiasm and detachment. At times, show excitement and eagerness to share information about the volunteer opportunities, but then suddenly become distracted or dismissive, leaving the community member unsure of how to proceed. Switch between a warm and welcoming smile to a more serious and bureaucratic expression, creating an unpredictable dynamic in the conversation."
+      }
+    },
+    {
+      "id": "S1032_I00001005",
+      "videos": [
+        {
+          "file_name": "V00_S1032_I00001005_P0150A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0039/V00_S1032_I00001005_P0150A.mp4"
+        },
+        {
+          "file_name": "V00_S1032_I00001005_P0229A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0002/V00_S1032_I00001005_P0229A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": null,
+        "participant_b_prompt_text": null
+      }
+    },
+    {
+      "id": "S1033_I00000402",
+      "videos": [
+        {
+          "file_name": "V00_S1033_I00000402_P0250A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0033/V00_S1033_I00000402_P0250A.mp4"
+        },
+        {
+          "file_name": "V00_S1033_I00000402_P1062.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0054/V00_S1033_I00000402_P1062.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Tell your partner about a time when you encountered a policy or rule that seemed inflexible or unyielding. Explain how it affected you and why you think it was impersonal.",
+        "participant_b_prompt_text": "Your partner will share a story about a frustrating experience with a policy or rule. Ask them to elaborate on how it made them feel and discuss potential alternatives that might have been more considerate."
+      }
+    },
+    {
+      "id": "S1042_I00000186",
+      "videos": [
+        {
+          "file_name": "V00_S1042_I00000186_P0997.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0007/V00_S1042_I00000186_P0997.mp4"
+        },
+        {
+          "file_name": "V00_S1042_I00000186_P1065.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0020/V00_S1042_I00000186_P1065.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Recall a situation where you took charge and led the way, possibly without fully considering your partner's input. Tell them about the situation and why you felt the need to take control, and ask for their thoughts on whether you overstepped.",
+        "participant_b_prompt_text": "Your partner will tell you about a time they felt you took over and didn't consider their opinions. Share your perspective on the situation and discuss whether you think you were too domineering in your approach."
+      }
+    },
+    {
+      "id": "S1045_I00000008",
+      "videos": [
+        {
+          "file_name": "V00_S1045_I00000008_P1066.mp4",
+          "file_path": "/videos/labeling/naturalistic/dev/0001/0013/V00_S1045_I00000008_P1066.mp4"
+        },
+        {
+          "file_name": "V00_S1045_I00000008_P1067.mp4",
+          "file_path": "/videos/labeling/naturalistic/dev/0001/0009/V00_S1045_I00000008_P1067.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Think about a time when you attended a social event, such as a party or gathering, and had a particularly great time. Tell your partner about the event and what made it so enjoyable.",
+        "participant_b_prompt_text": "Your partner will tell you about a fun social event they attended. Ask them questions about the event and discuss what you both like to do in social situations."
+      }
+    },
+    {
+      "id": "S1049_I00001217",
+      "videos": [
+        {
+          "file_name": "V00_S1049_I00001217_P0196A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0004/V00_S1049_I00001217_P0196A.mp4"
+        },
+        {
+          "file_name": "V00_S1049_I00001217_P0388A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0022/0042/V00_S1049_I00001217_P0388A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Polite): As the new employee, listen attentively to the supervisor's explanation with a respectful and courteous demeanor. Show genuine interest and concern for learning the safety protocols, asking clarifying questions in a considerate tone. Maintain a receptive and open-minded attitude throughout the conversation.",
+        "participant_b_prompt_text": "(Aggressive): As the supervisor, deliver the safety protocols in a forceful and direct manner, emphasizing the importance of adhering to the rules with a sense of urgency. Speak with a firm tone, using a commanding presence to convey the gravity of the safety procedures. Avoid showing patience or empathy, instead focusing on the strict enforcement of the rules."
+      }
+    },
+    {
+      "id": "S1075_I00001198",
+      "videos": [
+        {
+          "file_name": "V00_S1075_I00001198_P0396A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0023/0029/V00_S1075_I00001198_P0396A.mp4"
+        },
+        {
+          "file_name": "V00_S1075_I00001198_P0407A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0023/0004/V00_S1075_I00001198_P0407A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Modest): As the real estate agent, approach the conversation with humility and a willingness to listen. Downplay your expertise and avoid coming across as pushy or sales-y, instead focusing on providing helpful information and guidance to the client. Speak in a gentle, non-judgmental tone, and be open to the client's questions and concerns.",
+        "participant_b_prompt_text": "(Taciturn): As the client, maintain a reserved and introspective demeanor, speaking only when necessary and keeping your thoughts and feelings to yourself. Avoid asking too many questions or seeking reassurance, instead preferring to observe and listen to the agent's presentation. Keep your emotions and reactions in check, revealing little about your true thoughts or feelings about the purchase options."
+      }
+    },
+    {
+      "id": "S1085_I00000186",
+      "videos": [
+        {
+          "file_name": "V00_S1085_I00000186_P0989.mp4",
+          "file_path": "/videos/labeling/naturalistic/dev/0001/0022/V00_S1085_I00000186_P0989.mp4"
+        },
+        {
+          "file_name": "V00_S1085_I00000186_P1076.mp4",
+          "file_path": "/videos/labeling/naturalistic/dev/0001/0013/V00_S1085_I00000186_P1076.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Recall a situation where you took charge and led the way, possibly without fully considering your partner's input. Tell them about the situation and why you felt the need to take control, and ask for their thoughts on whether you overstepped.",
+        "participant_b_prompt_text": "Your partner will tell you about a time they felt you took over and didn't consider their opinions. Share your perspective on the situation and discuss whether you think you were too domineering in your approach."
+      }
+    },
+    {
+      "id": "S1092_I00000667",
+      "videos": [
+        {
+          "file_name": "V00_S1092_I00000667_P0092A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0056/V00_S1092_I00000667_P0092A.mp4"
+        },
+        {
+          "file_name": "V00_S1092_I00000667_P0799A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0041/V00_S1092_I00000667_P0799A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Gracious): As the barista, respond to the customer's intricate order with a warm and welcoming attitude. Listen attentively to their detailed requests, nodding and making supportive noises to show you're engaged and willing to accommodate their needs. Speak in a friendly, approachable tone, asking clarifying questions to ensure you get the order just right.",
+        "participant_b_prompt_text": "(Forceful): As the customer, place your complicated coffee order with confidence and a sense of entitlement. Speak clearly and firmly, emphasizing the specific details of your request, such as the type of milk, flavorings, and brewing method. Maintain a direct, assertive tone, implying that you expect the barista to get the order exactly right, without hesitation or apology."
+      }
+    },
+    {
+      "id": "S1097_I00000049",
+      "videos": [
+        {
+          "file_name": "V00_S1097_I00000049_P0347.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0036/V00_S1097_I00000049_P0347.mp4"
+        },
+        {
+          "file_name": "V00_S1097_I00000049_P1080.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0043/V00_S1097_I00000049_P1080.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they felt overwhelmed. Ask them follow-up questions to understand their thought process and how they felt during that time.",
+        "participant_b_prompt_text": "Think of a time when you felt overwhelmed by a situation and needed some space. Describe to your partner what was happening and how you handled it. Explain why you felt the need to withdraw from the situation."
+      }
+    },
+    {
+      "id": "S1097_I00000051",
+      "videos": [
+        {
+          "file_name": "V00_S1097_I00000051_P0347.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0027/V00_S1097_I00000051_P0347.mp4"
+        },
+        {
+          "file_name": "V00_S1097_I00000051_P1080.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0025/0000/V00_S1097_I00000051_P1080.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they found a creative solution to a problem. Ask them follow-up questions to understand their thought process and discuss whether you would have approached the problem similarly.",
+        "participant_b_prompt_text": "Describe a situation where you found a creative solution to a problem that had been stumping you. Explain how you came up with the solution and what made it effective."
+      }
+    },
+    {
+      "id": "S1098_I00000008",
+      "videos": [
+        {
+          "file_name": "V00_S1098_I00000008_P1081.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0010/V00_S1098_I00000008_P1081.mp4"
+        },
+        {
+          "file_name": "V00_S1098_I00000008_P1082.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0036/V00_S1098_I00000008_P1082.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Think about a time when you attended a social event, such as a party or gathering, and had a particularly great time. Tell your partner about the event and what made it so enjoyable.",
+        "participant_b_prompt_text": "Your partner will tell you about a fun social event they attended. Ask them questions about the event and discuss what you both like to do in social situations."
+      }
+    },
+    {
+      "id": "S1098_I00000013",
+      "videos": [
+        {
+          "file_name": "V00_S1098_I00000013_P1081.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0019/V00_S1098_I00000013_P1081.mp4"
+        },
+        {
+          "file_name": "V00_S1098_I00000013_P1082.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0046/V00_S1098_I00000013_P1082.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Think about a time when you didn't consider someone else's feelings or needs, and it led to a conflict or misunderstanding. Describe the situation to your partner and explain what you think you could have done differently.",
+        "participant_b_prompt_text": "Your partner will tell you about a time when they felt you were inconsiderate. Listen to their perspective and discuss what you could have done to be more considerate."
+      }
+    },
+    {
+      "id": "S1099_I00000667",
+      "videos": [
+        {
+          "file_name": "V00_S1099_I00000667_P0682A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0067/V00_S1099_I00000667_P0682A.mp4"
+        },
+        {
+          "file_name": "V00_S1099_I00000667_P0825A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0070/V00_S1099_I00000667_P0825A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Gracious): As the barista, respond to the customer's intricate order with a warm and welcoming attitude. Listen attentively to their detailed requests, nodding and making supportive noises to show you're engaged and willing to accommodate their needs. Speak in a friendly, approachable tone, asking clarifying questions to ensure you get the order just right.",
+        "participant_b_prompt_text": "(Forceful): As the customer, place your complicated coffee order with confidence and a sense of entitlement. Speak clearly and firmly, emphasizing the specific details of your request, such as the type of milk, flavorings, and brewing method. Maintain a direct, assertive tone, implying that you expect the barista to get the order exactly right, without hesitation or apology."
+      }
+    },
+    {
+      "id": "S1104_I00001215",
+      "videos": [
+        {
+          "file_name": "V00_S1104_I00001215_P0328A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0034/V00_S1104_I00001215_P0328A.mp4"
+        },
+        {
+          "file_name": "V00_S1104_I00001215_P0845A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0024/0025/V00_S1104_I00001215_P0845A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Cruel): As the homeowner, approach the conversation with a dismissive and belittling attitude towards the contractor's suggestions. Speak in a condescending tone, making it clear that you know better and that the contractor's expertise is inferior to your own. Use sarcasm to cut down the contractor's ideas, making them feel unvalued and unappreciated.",
+        "participant_b_prompt_text": "(Aggressive): As the contractor, respond to the homeowner's demands with a forceful and argumentative demeanor. Speak in a raised tone, pushing back against the homeowner's criticism and defending your professional expertise. Use a confrontational style to assert your authority and make it clear that you will not be bullied or intimidated by the homeowner's aggressive behavior."
+      }
+    },
+    {
+      "id": "S1140_I00001091",
+      "videos": [
+        {
+          "file_name": "V00_S1140_I00001091_P0707A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0057/V00_S1140_I00001091_P0707A.mp4"
+        },
+        {
+          "file_name": "V00_S1140_I00001091_P0976A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0020/V00_S1140_I00001091_P0976A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Coldhearted): As the doctor, deliver the lifestyle change suggestions in a detached and unfeeling manner, focusing solely on the medical facts without showing empathy or concern for the patient's well-being. Use a clinical tone, avoiding emotional language or personal connections. Maintain a neutral, almost disinterested expression throughout the conversation.",
+        "participant_b_prompt_text": "(Insensitive): As the patient, respond to the doctor's suggestions with a defensive and dismissive attitude, showing no willingness to listen or consider the doctor's advice. Speak in a blunt and confrontational tone, making it clear that you don't want to hear the doctor's opinions or concerns. Display a sense of annoyance or irritation, as if the doctor's suggestions are an inconvenience or an attack on your personal choices."
+      }
+    },
+    {
+      "id": "S1144_I00000056",
+      "videos": [
+        {
+          "file_name": "V00_S1144_I00000056_P0744.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0017/V00_S1144_I00000056_P0744.mp4"
+        },
+        {
+          "file_name": "V00_S1144_I00000056_P0976A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0005/V00_S1144_I00000056_P0976A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Share with your partner a time when you received some unexpectedly good news. How did you react, and what did you do to celebrate?",
+        "participant_b_prompt_text": "Your partner will tell you about a time they received good news. Ask them follow-up questions to keep the conversation light and enthusiastic."
+      }
+    },
+    {
+      "id": "S1144_I00000057",
+      "videos": [
+        {
+          "file_name": "V00_S1144_I00000057_P0744.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0009/V00_S1144_I00000057_P0744.mp4"
+        },
+        {
+          "file_name": "V00_S1144_I00000057_P0976A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0038/V00_S1144_I00000057_P0976A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will talk about a task they've been procrastinating on. Share a time when you faced a similar challenge and how you overcame it, and offer advice on how they might get started.",
+        "participant_b_prompt_text": "Discuss a task or project that you've been putting off for a while. What's holding you back from tackling it, and what strategies do you think might help you regain momentum?"
+      }
+    },
+    {
+      "id": "S1144_I00000064",
+      "videos": [
+        {
+          "file_name": "V00_S1144_I00000064_P0744.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0067/V00_S1144_I00000064_P0744.mp4"
+        },
+        {
+          "file_name": "V00_S1144_I00000064_P0976A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0048/V00_S1144_I00000064_P0976A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Share a personal achievement that you're particularly proud of and explain why it's significant to you. Try to convince your partner that it's impressive.",
+        "participant_b_prompt_text": "Your partner will tell you about something they're proud of. Listen to their story and ask follow-up questions to understand what makes it special to them."
+      }
+    },
+    {
+      "id": "S1145_I00000093",
+      "videos": [
+        {
+          "file_name": "V00_S1145_I00000093_P1095.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0047/V00_S1145_I00000093_P1095.mp4"
+        },
+        {
+          "file_name": "V00_S1145_I00000093_P1096.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0003/V00_S1145_I00000093_P1096.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a project you worked on together. Ask them questions about their perspective on the project and discuss how you could improve your collaboration in the future.",
+        "participant_b_prompt_text": "Think of a project or task you worked on with your partner that required collaboration and teamwork. Describe the project, your role in it, and how you worked together to achieve a common goal."
+      }
+    },
+    {
+      "id": "S1145_I00000095",
+      "videos": [
+        {
+          "file_name": "V00_S1145_I00000095_P1095.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0031/V00_S1145_I00000095_P1095.mp4"
+        },
+        {
+          "file_name": "V00_S1145_I00000095_P1096.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0013/V00_S1145_I00000095_P1096.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they had to adjust their plans for you. Discuss with them how you felt about the situation and whether it was a big deal or not.",
+        "participant_b_prompt_text": "Think of a time when you had to adjust your plans to help your partner out. Describe the situation and how you felt about making the change."
+      }
+    },
+    {
+      "id": "S1145_I00000102",
+      "videos": [
+        {
+          "file_name": "V00_S1145_I00000102_P1095.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0013/V00_S1145_I00000102_P1095.mp4"
+        },
+        {
+          "file_name": "V00_S1145_I00000102_P1096.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0026/0008/V00_S1145_I00000102_P1096.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Tell your partner about a time when someone showed you kindness or generosity when you needed it most. How did their actions affect you and what did you learn from the experience?",
+        "participant_b_prompt_text": "Your partner will share a story about a time they received kindness from someone. Listen to their story and discuss how it impacted their life and relationships."
+      }
+    },
+    {
+      "id": "S1150_I00001091",
+      "videos": [
+        {
+          "file_name": "V00_S1150_I00001091_P0193A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0023/V00_S1150_I00001091_P0193A.mp4"
+        },
+        {
+          "file_name": "V00_S1150_I00001091_P0946A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0000/V00_S1150_I00001091_P0946A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Coldhearted): As the doctor, deliver the lifestyle change suggestions in a detached and unfeeling manner, focusing solely on the medical facts without showing empathy or concern for the patient's well-being. Use a clinical tone, avoiding emotional language or personal connections. Maintain a neutral, almost disinterested expression throughout the conversation.",
+        "participant_b_prompt_text": "(Insensitive): As the patient, respond to the doctor's suggestions with a defensive and dismissive attitude, showing no willingness to listen or consider the doctor's advice. Speak in a blunt and confrontational tone, making it clear that you don't want to hear the doctor's opinions or concerns. Display a sense of annoyance or irritation, as if the doctor's suggestions are an inconvenience or an attack on your personal choices."
+      }
+    },
+    {
+      "id": "S1163_I00001123",
+      "videos": [
+        {
+          "file_name": "V00_S1163_I00001123_P0012.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0039/V00_S1163_I00001123_P0012.mp4"
+        },
+        {
+          "file_name": "V00_S1163_I00001123_P0878A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0025/0037/V00_S1163_I00001123_P0878A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Unfocused): As the driver, recount the events leading up to the accident in a disjointed and scattered manner, struggling to maintain a clear train of thought. Your words may trail off or you may get sidetracked by minor details, giving the impression that you're still trying to process what happened. Speak in a slightly dazed tone, as if you're still shaken by the accident.",
+        "participant_b_prompt_text": "(Uncalculating): As the police officer, listen to the driver's account with a neutral and non-judgmental expression, avoiding any hint of skepticism or accusation. Ask questions in a straightforward and matter-of-fact way, focusing on gathering facts rather than trying to catch the driver in a contradiction or assign blame. Maintain a calm and professional demeanor, prioritizing clarity and accuracy over any emotional response."
+      }
+    },
+    {
+      "id": "S1404_I00000041",
+      "videos": [
+        {
+          "file_name": "V00_S1404_I00000041_P0300.mp4",
+          "file_path": "/videos/labeling/improvised/train/0032/0027/V00_S1404_I00000041_P0300.mp4"
+        },
+        {
+          "file_name": "V00_S1404_I00000041_P1103A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0032/0000/V00_S1404_I00000041_P1103A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Discuss a task or project that you've been putting off for a while. What's holding you back from starting or completing it, and how do you plan to overcome your procrastination?",
+        "participant_b_prompt_text": "Your partner will talk about a task they've been putting off. Offer suggestions or advice on how they might get started, and share a strategy that has worked for you in a similar situation."
+      }
+    },
+    {
+      "id": "S1438_I00001123",
+      "videos": [
+        {
+          "file_name": "V00_S1438_I00001123_P0878A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0033/0021/V00_S1438_I00001123_P0878A.mp4"
+        },
+        {
+          "file_name": "V00_S1438_I00001123_P0921A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0033/0057/V00_S1438_I00001123_P0921A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Unfocused): As the driver, recount the events leading up to the accident in a disjointed and scattered manner, struggling to maintain a clear train of thought. Your words may trail off or you may get sidetracked by minor details, giving the impression that you're still trying to process what happened. Speak in a slightly dazed tone, as if you're still shaken by the accident.",
+        "participant_b_prompt_text": "(Uncalculating): As the police officer, listen to the driver's account with a neutral and non-judgmental expression, avoiding any hint of skepticism or accusation. Ask questions in a straightforward and matter-of-fact way, focusing on gathering facts rather than trying to catch the driver in a contradiction or assign blame. Maintain a calm and professional demeanor, prioritizing clarity and accuracy over any emotional response."
+      }
+    },
+    {
+      "id": "S1505_I00001026",
+      "videos": [
+        {
+          "file_name": "V00_S1505_I00001026_P0002A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0035/0043/V00_S1505_I00001026_P0002A.mp4"
+        },
+        {
+          "file_name": "V00_S1505_I00001026_P1102A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0035/0053/V00_S1505_I00001026_P1102A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Dominant): As the skilled chef, take charge of the conversation with confidence and authority. Speak clearly and decisively, using a slightly formal tone to convey expertise and emphasize key points. Maintain a calm, composed demeanor, but also convey a sense of expectation that the novice will follow instructions carefully.",
+        "participant_b_prompt_text": "(Friendly): As the novice, approach the conversation with a curious and receptive attitude. Ask questions in a warm and engaging tone, showing genuine interest in learning the recipe and willingness to take guidance from the chef. Display a relaxed and open body language, leaning forward slightly to show enthusiasm and attention to the explanation."
+      }
+    },
+    {
+      "id": "S1609_I00001026",
+      "videos": [
+        {
+          "file_name": "V00_S1609_I00001026_P0878A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0039/0056/V00_S1609_I00001026_P0878A.mp4"
+        },
+        {
+          "file_name": "V00_S1609_I00001026_P1094A.mp4",
+          "file_path": "/videos/labeling/improvised/train/0039/0032/V00_S1609_I00001026_P1094A.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "(Dominant): As the skilled chef, take charge of the conversation with confidence and authority. Speak clearly and decisively, using a slightly formal tone to convey expertise and emphasize key points. Maintain a calm, composed demeanor, but also convey a sense of expectation that the novice will follow instructions carefully.",
+        "participant_b_prompt_text": "(Friendly): As the novice, approach the conversation with a curious and receptive attitude. Ask questions in a warm and engaging tone, showing genuine interest in learning the recipe and willingness to take guidance from the chef. Display a relaxed and open body language, leaning forward slightly to show enthusiasm and attention to the explanation."
+      }
+    },
+    {
+      "id": "S1859_I00000122",
+      "videos": [
+        {
+          "file_name": "V00_S1859_I00000122_P0160.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0029/0012/V00_S1859_I00000122_P0160.mp4"
+        },
+        {
+          "file_name": "V00_S1859_I00000122_P0991.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0029/0041/V00_S1859_I00000122_P0991.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Describe a time when you had to maintain a consistent routine or schedule for an extended period. How did you stay motivated and on track? What benefits did you experience as a result?",
+        "participant_b_prompt_text": "Your partner will tell you about a time they had to maintain a consistent routine. Ask them about the challenges they faced and how they overcame them."
+      }
+    },
+    {
+      "id": "S1863_I00000049",
+      "videos": [
+        {
+          "file_name": "V00_S1863_I00000049_P0903.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0029/0045/V00_S1863_I00000049_P0903.mp4"
+        },
+        {
+          "file_name": "V00_S1863_I00000049_P1193.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0029/0000/V00_S1863_I00000049_P1193.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they felt overwhelmed. Ask them follow-up questions to understand their thought process and how they felt during that time.",
+        "participant_b_prompt_text": "Think of a time when you felt overwhelmed by a situation and needed some space. Describe to your partner what was happening and how you handled it. Explain why you felt the need to withdraw from the situation."
+      }
+    },
+    {
+      "id": "S1895_I00000089",
+      "videos": [
+        {
+          "file_name": "V00_S1895_I00000089_P0205.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0030/0018/V00_S1895_I00000089_P0205.mp4"
+        },
+        {
+          "file_name": "V00_S1895_I00000089_P1120.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0030/0024/V00_S1895_I00000089_P1120.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Describe a situation where you went out of your way to help someone in need. What motivated you to assist, and how did the person respond?",
+        "participant_b_prompt_text": "Your partner will share a story about helping someone. Ask follow-up questions to understand their thought process and discuss how you might have handled the situation similarly or differently."
+      }
+    },
+    {
+      "id": "S1931_I00000089",
+      "videos": [
+        {
+          "file_name": "V00_S1931_I00000089_P0260.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0031/0009/V00_S1931_I00000089_P0260.mp4"
+        },
+        {
+          "file_name": "V00_S1931_I00000089_P0568.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0031/0031/V00_S1931_I00000089_P0568.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Describe a situation where you went out of your way to help someone in need. What motivated you to assist, and how did the person respond?",
+        "participant_b_prompt_text": "Your partner will share a story about helping someone. Ask follow-up questions to understand their thought process and discuss how you might have handled the situation similarly or differently."
+      }
+    },
+    {
+      "id": "S1933_I00000013",
+      "videos": [
+        {
+          "file_name": "V00_S1933_I00000013_P0805.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0031/0027/V00_S1933_I00000013_P0805.mp4"
+        },
+        {
+          "file_name": "V00_S1933_I00000013_P1220.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0031/0007/V00_S1933_I00000013_P1220.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Think about a time when you didn't consider someone else's feelings or needs, and it led to a conflict or misunderstanding. Describe the situation to your partner and explain what you think you could have done differently.",
+        "participant_b_prompt_text": "Your partner will tell you about a time when they felt you were inconsiderate. Listen to their perspective and discuss what you could have done to be more considerate."
+      }
+    },
+    {
+      "id": "S1983_I00000051",
+      "videos": [
+        {
+          "file_name": "V00_S1983_I00000051_P0328A.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0032/0028/V00_S1983_I00000051_P0328A.mp4"
+        },
+        {
+          "file_name": "V00_S1983_I00000051_P1168.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0032/0005/V00_S1983_I00000051_P1168.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Your partner will tell you about a time they found a creative solution to a problem. Ask them follow-up questions to understand their thought process and discuss whether you would have approached the problem similarly.",
+        "participant_b_prompt_text": "Describe a situation where you found a creative solution to a problem that had been stumping you. Explain how you came up with the solution and what made it effective."
+      }
+    },
+    {
+      "id": "S3340_I00000122",
+      "videos": [
+        {
+          "file_name": "V02_S3340_I00000122_P4153.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0062/0041/V02_S3340_I00000122_P4153.mp4"
+        },
+        {
+          "file_name": "V02_S3340_I00000122_P4157.mp4",
+          "file_path": "/videos/labeling/naturalistic/train/0062/0054/V02_S3340_I00000122_P4157.mp4"
+        }
+      ],
+      "prompts": {
+        "participant_a_prompt_text": "Describe a time when you had to maintain a consistent routine or schedule for an extended period. How did you stay motivated and on track? What benefits did you experience as a result?",
+        "participant_b_prompt_text": "Your partner will tell you about a time they had to maintain a consistent routine. Ask them about the challenges they faced and how they overcame them."
+      }
+    }
+  ]
+}
