@@ -6,6 +6,7 @@ export default function ConversationViewerClean() {
   const v1 = useRef(null);
   const v2 = useRef(null);
   const [playing, setPlaying] = useState(false);
+  const STORAGE_KEY = "conversationViewer.lastConversationId";
 
   useEffect(() => {
     fetch("/assets/videos_grouped.json")
@@ -13,6 +14,31 @@ export default function ConversationViewerClean() {
       .then((j) => setData(j.conversations || []))
       .catch(() => setData([]));
   }, []);
+
+  // restore last viewed conversation id from localStorage (when data is loaded)
+  useEffect(() => {
+    if (!data || !data.length) return;
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw != null) {
+        // find conversation with matching id (allow numeric or string ids)
+        const found = data.findIndex((c) => String(c.id) === String(raw));
+        if (found >= 0) setIndex(found);
+      }
+    } catch (e) {
+      // ignore storage errors
+    }
+  }, [data]);
+
+  // persist conversation id to localStorage whenever index changes
+  useEffect(() => {
+    try {
+      const id = data?.[index]?.id;
+      if (id != null) localStorage.setItem(STORAGE_KEY, String(id));
+    } catch (e) {
+      // ignore
+    }
+  }, [index, data]);
 
   const prev = () =>
     setIndex((i) => (i - 1 + (data?.length || 0)) % (data?.length || 1));
@@ -104,21 +130,22 @@ export default function ConversationViewerClean() {
           alignItems: "center",
         }}
       >
-        <div>
-          <button onClick={prev} className="sync-button">
-            Previous
-          </button>
-          <button
-            onClick={next}
-            className="sync-button"
-            style={{ marginLeft: 8 }}
-          >
-            Next
-          </button>
-        </div>
+        {/* <div> */}
+        <button onClick={prev} className="sync-button">
+          Previous
+        </button>
         <div style={{ fontSize: 13, color: "#444" }}>
           Conversation: {convo.id} ({index + 1}/{data.length})
         </div>
+        <button
+          onClick={next}
+          className="sync-button"
+          //   style={{ marginLeft: 8 }}
+        >
+          Next
+        </button>
+        {/* </div> */}
+
         <div />
       </div>
 
