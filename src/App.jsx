@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-import PromptPairer from "./PromptPairer";
 import ConversationViewer from "./ConversationViewerClean";
 
 export default function App() {
@@ -83,12 +82,6 @@ export default function App() {
       <header className="header">
         <h1>Conversations - videos side by side</h1>
       </header>
-
-      {/* <div className="controls">
-        <button className="sync-button" onClick={togglePlay}>
-          {playing ? "Pause both" : "Play both"}
-        </button>
-      </div> */}
 
       <main>
         <ConversationViewer />
