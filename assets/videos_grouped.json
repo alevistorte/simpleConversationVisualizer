@@ -183,8 +183,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
-        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
+        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u2019s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
+        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u2019s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
       }
     },
     {
@@ -251,8 +251,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
-        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u201a\u00c4\u00f4s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
+        "participant_a_prompt_text": "Scenario: Babysitter: A parent explains their child\u2019s nighttime routine to the babysitter and answers questions.\n(Crafty): As the parent, approach the conversation with a subtle sense of authority, using a measured tone to convey a sense of responsibility while also being mindful of the babysitter's limitations. Leverage your knowledge of the child's routine to anticipate and address potential concerns. Speak in a calm, deliberate manner, as if sharing a carefully crafted plan.",
+        "participant_b_prompt_text": "Scenario: Babysitter: A parent explains their child\u2019s nighttime routine to the babysitter and answers questions.\n(Withdrawn): As the babysitter, respond with a hesitant tone, displaying a mix of uncertainty and politeness. Ask open-ended questions to show interest in the routine, but avoid making any definitive statements or taking charge. Use a slightly defensive posture to convey a sense of \"I'm just doing my job.\""
       }
     },
     {
@@ -336,8 +336,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
-        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
+        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u2019s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
+        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u2019s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
       }
     },
     {
@@ -370,8 +370,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
-        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u201a\u00c4\u00f4s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
+        "participant_a_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u2019s progress at a parent-teacher conference.\n(Unaggressive): As the teacher, approach the parent with a neutral tone, neither being overly enthusiastic nor confrontational. Speak in a calm, measured pace, focusing on conveying the student's progress in a matter-of-fact way.",
+        "participant_b_prompt_text": "Scenario: Parent-teacher: A teacher and parent discuss a student\u2019s progress at a parent-teacher conference.\n(Shy): As the parent, enter the conversation with a hesitant tone, fidgeting slightly with your hands. Speak in a soft, tentative voice, occasionally glancing at the teacher for reassurance before articulating your questions or concerns."
       }
     },
     {
@@ -965,8 +965,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": null,
-        "participant_b_prompt_text": null
+        "participant_a_prompt_text": "(Confused): As the person being flirted with, respond with a mix of surprise and curiosity. Seem uncertain about how to react to the other person's advances, but also intrigued by their interest. Your tone should be playful and open, as if you're trying to figure out if this is a genuine connection or just a game.",
+        "participant_b_prompt_text": "(Reclusive): As the person doing the flirting, approach the interaction with a sense of hesitation and vulnerability. Despite your initial reserve, allow your guard to drop slightly as the conversation progresses, revealing a more charming and lighthearted side. Speak in a soft, measured tone, as if you're carefully choosing your words to avoid scaring the other person off."
       }
     },
     {
@@ -1118,8 +1118,8 @@
         }
       ],
       "prompts": {
-        "participant_a_prompt_text": null,
-        "participant_b_prompt_text": null
+        "participant_a_prompt_text": "(Confused): As the person being flirted with, respond with a mix of surprise and curiosity. Seem uncertain about how to react to the other person's advances, but also intrigued by their interest. Your tone should be playful and open, as if you're trying to figure out if this is a genuine connection or just a game.",
+        "participant_b_prompt_text": "(Reclusive): As the person doing the flirting, approach the interaction with a sense of hesitation and vulnerability. Despite your initial reserve, allow your guard to drop slightly as the conversation progresses, revealing a more charming and lighthearted side. Speak in a soft, measured tone, as if you're carefully choosing your words to avoid scaring the other person off."
       }
     },
     {
